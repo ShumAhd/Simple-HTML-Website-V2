@@ -12,4 +12,4 @@
 Также в репозитории присутствует файл стилей CSS - style.css, который задает основные стили для элементов на этих страницах.
 
 ## Вид получившейся страницы 
-
+![https://github.com/ShumAhd/Simple-HTML-Website-V2/blob/main/img/image.png]
